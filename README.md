@@ -32,4 +32,5 @@ https://github.com/GuilhermeAssisF/Trabalho_FilaAtendimento
 - `index.js`: Script principal do sistema que controla a interação do usuário e a lógica de negócios.
 - `style.css`: Estilos adicionais para a interface do usuário.
 
-  ![image](https://github.com/GuilhermeAssisF/Trabalho_FilaAtendimento/assets/132107614/0862a379-068f-4854-bb73-0694dd5eb825)
+ ![image](https://github.com/GuilhermeAssisF/Trabalho_AtendimentoFila/assets/132107614/c6f91146-c46e-4d2a-93cb-d3e0413be140)
+
